@@ -235,6 +235,7 @@ function create_config( )
     "download_media",
     "invite",
     "all",
+    "addplugin",
     "leave_ban",
     "chat",
     "map",
@@ -255,16 +256,16 @@ An advance Administration bot based on yagop/telegram-bot
 
 
 Admins
-@Xx_king_salib_Xx [sudo]
-@Mr_Vigeo [sudo]
-@Xx_minister_salib_xX [sudo]
+blackhat
+@blackhat_hc
+@leader_dp
 
 Special thanks to
-@Mr_Vigeo 
+blackhat
 
 Our channels
-@TeleSalibCh [English]
-@TeleSalibCh [persian]
+@forlast
+@forlast
 ]],
     help_text_realm = [[
 Realm Commands:
